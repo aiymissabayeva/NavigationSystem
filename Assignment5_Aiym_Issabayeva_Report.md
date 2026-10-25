@@ -12,7 +12,7 @@ The Navigator class uses the selected strategy, while Main allows switching betw
 
 ## 2. UML Diagram
 
-![Strategy Pattern UML](uml 5.png)
+![Strategy Pattern UML](uml5.png)
 
 The UML diagram shows the structure of the Strategy Pattern in the Navigation System.
 
